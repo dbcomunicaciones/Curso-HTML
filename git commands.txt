@@ -1,0 +1,14 @@
+https://github.com/dbcomunicaciones/HTML-Hoja-de-vida.git
+
+git --version
+
+git config --global user.name "dbcomunicaciones" ; crear el usuario
+
+git config --global user.mail "dbcomunica@yahoo.com" indicar el e-mail
+
+git init ; inicia git
+
+git clone https://github.com/dbcomunicaciones/HTML-Hoja-de-vida.git ; clona el archivo en el repositorio
+
+
+
